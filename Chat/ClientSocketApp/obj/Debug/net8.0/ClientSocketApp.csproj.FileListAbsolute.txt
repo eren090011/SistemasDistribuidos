@@ -1,0 +1,28 @@
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.exe
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.deps.json
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.runtimeconfig.json
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.dll
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.pdb
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.AssemblyInfo.cs
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.dll
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\refint\ClientSocketApp.dll
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.pdb
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.genruntimeconfig.cache
+C:\Users\migue\Desktop\UPB 2024-2\Sistemas Distribuidos\Laboratorios\Lab3-Broadcast\ClientSocketApp\obj\Debug\net8.0\ref\ClientSocketApp.dll
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.exe
+D:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.deps.json
+D:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.runtimeconfig.json
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.dll
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\bin\Debug\net8.0\ClientSocketApp.pdb
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.AssemblyInfoInputs.cache
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.AssemblyInfo.cs
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.csproj.CoreCompileInputs.cache
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.dll
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\refint\ClientSocketApp.dll
+d:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.pdb
+D:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\ClientSocketApp.genruntimeconfig.cache
+D:\proyectos sistemas distribuidos\java proyects\Chat\ClientSocketApp\obj\Debug\net8.0\ref\ClientSocketApp.dll
